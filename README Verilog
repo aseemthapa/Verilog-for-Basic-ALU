@@ -1,0 +1,1 @@
+This ALU can perform basic Add, SUbtract, AND, and XOR operations on regular 4 bit binary numbers and has overflow detection integrated.
